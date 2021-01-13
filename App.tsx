@@ -25,7 +25,7 @@ const initialRegion = {
 const App = () => {
   return (
     <>
-      <StatusBar hidden={true} />
+
       <View style={styles.container}>
         <FaceBook />
         <MapView
