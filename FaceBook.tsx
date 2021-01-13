@@ -65,11 +65,6 @@ class FBSearchBar extends React.Component {
   }
 
 
-
-
-
-
-
   _onFocus = () => {
     // update state
     this.setState({ isFocused: true })

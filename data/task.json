@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Property": "Helsinki Kaupunki",
+      "location": {
+        "lat": 60.1718729,
+        "lng": 24.9414217
+      },
+      "task": "clean the window"
+    },
+    {
+      "id": 2,
+      "Property": "Boden heavenHall",
+      "location": {
+        "lat": 65.8221766,
+        "lng": 21.5201611
+      },
+      "task": "Fix the heating"
+    },
+    {
+      "id": 3,
+      "Property": "Stockholm Property",
+      "location": {
+        "lat": 59.3260668,
+        "lng": 17.8419736
+      },
+      "task": "Kitchen light Switch"
+    },
+    {
+      "id": 4,
+      "Property": "Pasila Property",
+      "location": {
+        "lat": 60.205747,
+        "lng": 24.9270008
+      },
+      "task": "Clean the floor"
+    },
+    {
+      "id": 5,
+      "Property": "Espoo Property",
+      "location": {
+        "lat": 60.1970998,
+        "lng": 24.9592447
+      },
+      "task": "Clean the floor"
+    },
+    {
+      "id": 6,
+      "Property": "Vantaa Property",
+      "location": {
+        "lat": 60.2066858,
+        "lng": 24.5350352
+      },
+      "task": "Clean the floor"
+    },
+    {
+      "id": 7,
+      "Property": "Haaga Property",
+      "location": {
+        "lat": 60.2066858,
+        "lng": 24.5350352
+      },
+      "task": "Clean the floor"
+    }
+  ]
+}
